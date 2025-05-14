@@ -26,7 +26,7 @@ It's suitable for educational purposes as well as integration into larger FPGA-b
 │   ├── uart_tx.vhd  
 │   └── uart_top.vhd  
 ├── sim/                    # Testbench files
-│   └── testbench_uart.vhd    
+│     └── testbench_uart.vhd    
 ├── constraints/          # XDC pin mapping file
 └── docs/                 # Technical documentation
 
