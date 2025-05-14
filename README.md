@@ -21,14 +21,14 @@ It's suitable for educational purposes as well as integration into larger FPGA-b
 
 📁 Project Structure
 
-├── src/              # VHDL source files  
-│   ├── uart_rx.vhd
-│   ├── uart_tx.vhd
-│   └── uart_top.vhd
-├── sim/              # Testbench files
-│   └── testbench_uart.vhd
-├── constraints/      # XDC pin mapping file
-└── docs/             # Technical documentation
+├── src/                # VHDL source files  
+│   ├── uart_rx.vhd    
+│   ├── uart_tx.vhd  
+│   └── uart_top.vhd  
+├── sim/                  # Testbench files
+│   └── testbench_uart.vhd  
+├── constraints/        # XDC pin mapping file
+└── docs/               # Technical documentation
 
 🚀 Getting Started
   1. Create a new project in Vivado / ISE
