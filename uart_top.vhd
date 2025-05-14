@@ -45,3 +45,4 @@ begin
             rx_data => rx_data,
             rx_done => rx_done
         );
+end Behavioral;
