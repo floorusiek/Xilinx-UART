@@ -21,7 +21,7 @@ It's suitable for educational purposes as well as integration into larger FPGA-b
 
 📁 Project Structure
 
-├── src/              # VHDL source files
+├── src/              # VHDL source files  
 │   ├── uart_rx.vhd
 │   ├── uart_tx.vhd
 │   └── uart_top.vhd
