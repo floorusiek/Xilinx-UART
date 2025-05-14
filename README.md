@@ -1,4 +1,4 @@
-**UART Communication in VHDL for Xilinx FPGA** 
+# UART Communication in VHDL for Xilinx FPGA 
 
 __📦 Project Overview__
 
