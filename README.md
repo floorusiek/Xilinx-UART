@@ -6,18 +6,18 @@ This project implements a complete UART (Universal Asynchronous Receiver/Transmi
 
 It's suitable for educational purposes as well as integration into larger FPGA-based systems requiring serial communication.
 
-**⚙️ Features**
-  • Configurable baud rate (default: 9600 bps)
-  • Full-duplex communication: transmit (TX) and receive (RX)
-  • 8N1 protocol (8 data bits, no parity, 1 stop bit)
-  • Optional FIFO buffers for TX and RX
-  • Fully verified through simulation and hardware testing
+**⚙️ Features**  
+  • Configurable baud rate (default: 9600 bps)  
+  • Full-duplex communication: transmit (TX) and receive (RX)    
+  • 8N1 protocol (8 data bits, no parity, 1 stop bit)  
+  • Optional FIFO buffers for TX and RX  
+  • Fully verified through simulation and hardware testing  
 
-**🧰 Technologies Used:**
-  • VHDL 2008
-  • Xilinx Vivado / ISE
-  • Simulation: ModelSim / GHDL
-  • Tested on: Xilinx Nexys 4 / Basys 3
+**🧰 Technologies Used:**    
+  • VHDL 2008  
+  • Xilinx Vivado / ISE  
+  • Simulation: ModelSim / GHDL  
+  • Tested on: Xilinx Nexys 4 / Basys 3  
 
 **📁 Project Structure**
 
