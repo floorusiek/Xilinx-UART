@@ -20,6 +20,7 @@ It's suitable for educational purposes as well as integration into larger FPGA-b
   • Tested on: Xilinx Nexys 4 / Basys 3
 
 📁 Project Structure
+
 ├── src/              # VHDL source files
 │   ├── uart_rx.vhd
 │   ├── uart_tx.vhd
