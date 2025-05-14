@@ -1,6 +1,6 @@
 **UART Communication in VHDL for Xilinx FPGA** 
 
-__### 📦 Project Overview__
+__📦 Project Overview__
 
 This project implements a complete UART (Universal Asynchronous Receiver/Transmitter) communication interface in VHDL, designed for synthesis on Xilinx FPGA boards. The goal is to provide a reliable and configurable UART module that enables serial communication with a PC or other peripheral devices.
 
